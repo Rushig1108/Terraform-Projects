@@ -15,3 +15,4 @@ Terraform simplifies this process by offering:
 
 In this setup, we deploy a simple Kubernetes Deployment with 4 replicas and a NodePort Service to expose the application externally.
 
+Kubernetes Deployment/Screenshot 2025-02-15 at 11.57.25 AM.png
