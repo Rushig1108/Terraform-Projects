@@ -1,1 +1,1 @@
-## This Repository consists of different Terraform Scripts I have written throughout my career. ##
+## This Repository consists of different Terraform templates I have written throughout my career. ##
