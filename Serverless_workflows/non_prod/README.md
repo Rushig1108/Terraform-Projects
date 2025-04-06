@@ -38,11 +38,6 @@ aws-instance-scheduler/
 
 2. **Configure the variables:**
 
-   ```bash
-   cd terraform
-   cp terraform.tfvars.example terraform.tfvars
-   ```
-
    Edit `terraform.tfvars` to set your email address, Slack webhook URL, and other parameters.
 
 3. **Initialize Terraform:**
